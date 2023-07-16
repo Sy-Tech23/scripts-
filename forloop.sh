@@ -1,6 +1,6 @@
 #!/bin/bash
 
-##script with for loop 2
+##script with for loop 3
 
 echo " all params : $* "
 echo " number of params $# "
