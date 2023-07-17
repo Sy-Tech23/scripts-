@@ -1,6 +1,6 @@
 #!/bin/bash 
 
-echo "reading user input"
+echo "reading user input now" 
 
 read -p "please enter password:"  user_pwd
  
