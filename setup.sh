@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "setup and config server"
+echo "setup and config main server"
 
 file_name=config.yaml
 
